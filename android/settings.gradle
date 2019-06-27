@@ -1,0 +1,3 @@
+rootProject.name = 'Share_places'
+
+include ':app'
